@@ -7,11 +7,11 @@
 - Posso completar, editar e deletar tarefas.
 ---
 
-#### Ferramentas Utilizadas
+### Ferramentas Utilizadas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-#### Rode este projeto em sua máquina!
+### Rode este projeto em sua máquina!
 1. Instale o git em sua máquina pelo site oficial:
 ```bash
 https://git-scm.com/downloads
@@ -23,7 +23,7 @@ git clone https://github.com/menezesosmar/to-do-list-js.git
 3. Ao clonar o repositório, siga até o Visual Studio Code e clique em "*Open with Live Server*"
 <img width="578" height="281" alt="image" src="https://github.com/user-attachments/assets/63aa5466-e08a-4952-81b0-7cee7e2b60c5" />
 
-#### Funcionalidades restantes:
+### Funcionalidades restantes:
 - Pesquisar tarefas.
 - Filtro específicos de tarefas.
 
