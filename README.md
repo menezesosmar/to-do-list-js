@@ -6,4 +6,3 @@ Este é um lembrete de tarefas avançado com as principais funcionalidades:
 - Lembrete de tarefas com data e hora definidos. 
 - Posso completar, editar e deletar tarefas.
 ---
-## Ferramentas utilizadas:
